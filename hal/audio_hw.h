@@ -40,6 +40,7 @@
 
 #include <stdlib.h>
 #include <cutils/list.h>
+#include <hardware/audio_amplifier.h>
 #include <hardware/audio.h>
 #include <tinyalsa/asoundlib.h>
 #include <tinycompress/tinycompress.h>
